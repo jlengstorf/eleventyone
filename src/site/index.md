@@ -5,7 +5,7 @@ layout: layouts/base.njk
 ---
 
 
-## This site is a starting point
+## This site is a great starting point
 
 From this point we should already have:
 
